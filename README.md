@@ -9,6 +9,3 @@ Features:
 
 ❌ Delete – Remove records you no longer need.
 
-Home page
-
-<img src="./public/home.png" alt="Crud home page" width="400"/>
