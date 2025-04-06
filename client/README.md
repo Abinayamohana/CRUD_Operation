@@ -6,9 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-HOME Page
+## Home Page
+
 <img src="./public/home.png" alt="Crud home page" width="400"/>
 
+
+## Update page
+
+<img src="./public/update.png" alt="Crud update page" width="400"/>
 
 
 
