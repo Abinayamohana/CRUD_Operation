@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-
+HOME Page
 <img src="./public/home.png" alt="Crud home page" width="400"/>
 
 
